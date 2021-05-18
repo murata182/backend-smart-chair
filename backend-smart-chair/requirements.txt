@@ -1,0 +1,7 @@
+fastapi==0.65.1
+uvicorn==0.11.8
+pydantic~=1.8.2
+pip~=9.0.1
+setuptools~=28.8.0
+motor==2.2.0
+python-decouple==3.3
